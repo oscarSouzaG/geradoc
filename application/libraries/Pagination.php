@@ -29,7 +29,7 @@ class CI_Pagination {
     public $page_query_string = FALSE;
     public $query_string_segment = 'per_page';
 
-    /**
+    /*
      * Constructor
      *
      * @access    public
